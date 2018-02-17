@@ -1,6 +1,7 @@
 # word-translator
 
-> A Word translator
+> A Word translator using Vue.js, bootstrap and Yandex translate API
+> If you want to add more languages, check out this page https://tech.yandex.com/translate/doc/dg/concepts/api-overview-docpage/ and add to the array in the TranslateForm component (for now).
 
 ## Build Setup
 
